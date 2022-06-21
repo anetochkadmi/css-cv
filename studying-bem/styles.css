@@ -51,6 +51,7 @@
 }
 .about__column {
     padding: 0 15px;
+    flex: 0 33.333%;
 }
 .item-about {
 }
